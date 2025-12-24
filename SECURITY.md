@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-Any rust version after 1.64.0, compiled using 1.75.0
+Any odin version after dev-2025, compiled using dev-2025-12:6130b87b
 
 ## Reporting a Vulnerability
 
